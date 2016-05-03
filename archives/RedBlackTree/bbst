@@ -1,0 +1,4 @@
+#!/bin/sh
+
+javac bbst.java
+java bbst $1
